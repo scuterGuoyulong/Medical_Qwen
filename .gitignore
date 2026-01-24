@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .idea/
+
+data/finetune/sharegpt_zh_1K_format.jsonl
