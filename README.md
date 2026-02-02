@@ -157,7 +157,7 @@ sh vllm_deployment.sh
 
 ## 💕 Acknowledgements
 
-- [MedicalGPT: Training Medical GPT Model]((https://github.com/shibing624/MedicalGPT))
+- [MedicalGPT: Training Medical GPT Model](https://github.com/shibing624/MedicalGPT)
 - [Direct Preference Optimization:Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora/blob/main/finetune.py)
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
