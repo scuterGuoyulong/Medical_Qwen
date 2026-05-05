@@ -1,0 +1,32 @@
+<img width="1600" height="960" alt="image" src="https://github.com/user-attachments/assets/f4cb9058-605a-4b37-ae36-88075240f772" />
+
+all_results:
+{
+    "epoch": 0.4017637428310282,
+    "eval_bleu1": 0.3823372074653454,
+    "eval_bleu2": 0.2750977534037096,
+    "eval_bleu3": 0.20515944067299496,
+    "eval_bleu4": 0.15897045421365935,
+    "eval_loss": 1.590707778930664,
+    "eval_runtime": 322.6521,
+    "eval_samples": 200,
+    "eval_samples_per_second": 0.617,
+    "eval_steps_per_second": 0.155,
+    "perplexity": 4.907220927058191,
+    "test_bleu1": 0.40923172209305503,
+    "test_bleu2": 0.29824302935364566,
+    "test_bleu3": 0.22404277828153368,
+    "test_bleu4": 0.17437282297639406,
+    "test_loss": 1.540938138961792,
+    "test_perplexity": 4.668968358168119,
+    "test_runtime": 316.0053,
+    "test_samples": 200,
+    "test_samples_per_second": 0.633,
+    "test_steps_per_second": 0.158,
+    "total_flos": 4.0354789316571955e+17,
+    "train_loss": 1.6730845288276672,
+    "train_runtime": 49757.2596,
+    "train_samples": 200000,
+    "train_samples_per_second": 1.608,
+    "train_steps_per_second": 0.05
+}
