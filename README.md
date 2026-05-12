@@ -11,7 +11,9 @@
 - Gradio、FastAPI、普通推理、多卡推理和 vLLM 部署示例。
 
 ## News
-- 新增医疗报告生成和纯问答数据集的数据处理：包括将英文的报告翻译为中文、去除问答中低质量的重复片段、去掉和问答无意义的词语和语句、进行问答的高质量该写：https://github.com/scuterGuoyulong/Medical_fullstack/corpus
+- 新增医疗报告生成和纯问答数据集的数据处理：包括将英文的报告翻译为中文、去除问答中低质量的重复片段、去掉和问答无意义的词语和语句、进行问答的高质量该写:
+Medical_fullstack(https://github.com/scuterGuoyulong/Medical_fullstack)
+- https://github.com/scuterGuoyulong/Medical_fullstack/corpus
 - 新增多模态统一训练的框架训练: https://github.com/scuterGuoyulong/Medical_fullstack/train_unify
 - 部署检索增强生成：https://github.com/scuterGuoyulong/Medical_fullstack/rag
 ## Features
